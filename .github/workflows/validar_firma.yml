@@ -1,10 +1,9 @@
-# Validación de firma CLOB V2 — temporal con schedule para que corra sola
-# Coloca una orden de prueba de 5 shares a 0.01 (no se llenará) y la cancela.
+# Validación de firma CLOB V2 — temporal con schedule (cada 5 min)
 name: Validar Firma (Mensual)
 
 on:
   schedule:
-    - cron: '*/5 * * * *'      # TEMPORAL: cada 5 min mientras validamos
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}
 
 jobs:
@@ -27,11 +26,20 @@ jobs:
           python -m pip install --quiet --upgrade pip
           python -m pip install --quiet py-clob-client-v2
 
-      - name: Actualizar mercado + prueba de firma segura
+      - name: Actualizar mercado
         env:
           POLY_PRIVATE_KEY: ${{ secrets.POLY_PRIVATE_KEY }}
           POLY_WALLET_ADDRESS: ${{ secrets.POLY_WALLET_ADDRESS }}
           REAL_CONFIRMADO: ${{ secrets.REAL_CONFIRMADO }}
         run: |
-          python mercado_polymarket.py >/dev/null 2>&1
-          python probar_orden_mensual.py
+          python mercado_polymarket.py 2>&1 | tail -20
+          echo "EXIT_MERCADO=$?"
+
+      - name: Prueba de firma segura
+        env:
+          POLY_PRIVATE_KEY: ${{ secrets.POLY_PRIVATE_KEY }}
+          POLY_WALLET_ADDRESS: ${{ secrets.POLY_WALLET_ADDRESS }}
+          REAL_CONFIRMADO: ${{ secrets.REAL_CONFIRMADO }}
+        run: |
+          python probar_orden_mensual.py 2>&1
+          echo "EXIT_FIRMA=$?"
