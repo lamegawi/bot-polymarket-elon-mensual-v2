@@ -1,0 +1,57 @@
+# 🤖 Bot Polymarket V2 (MENSUAL) — 24/7 GRATIS con GitHub Actions
+# -------------------------------------------------------------
+# Variante V2 de la ventana mensual: misma metodología (ventaja ≥ 10pp,
+# cuota ≥ 3.00) pero con factor de progresión ×1.38 (óptimo para cuota 3.00).
+#
+# ⭐ Usa GITHUB_TOKEN automático (no hace falta PAT).
+# REQUISITOS: repo PÚBLICO + secrets POLY_PRIVATE_KEY,
+# POLY_WALLET_ADDRESS y REAL_CONFIRMADO ("1" para operar real).
+
+name: Bot Polymarket Elon V2 (MENSUAL)
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'      # cada 15 minutos (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot-v2-mensual
+  cancel-in-progress: false
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --quiet --upgrade pip
+          python -m pip install --quiet openpyxl py-clob-client-v2
+
+      - name: Ejecutar una pasada del bot (MODO REAL MENSUAL V2)
+        env:
+          POLY_PRIVATE_KEY: ${{ secrets.POLY_PRIVATE_KEY }}
+          POLY_WALLET_ADDRESS: ${{ secrets.POLY_WALLET_ADDRESS }}
+          REAL_CONFIRMADO: ${{ secrets.REAL_CONFIRMADO }}
+        run: python -u bot_mensual.py --modo real --excel
+
+      - name: Guardar estado (commit de los datos)
+        run: |
+          git config user.name "bot-poly-v2-men"
+          git config user.email "bot-poly-v2-men@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "estado bot v2-men $(date -u +'%Y-%m-%d %H:%M')"
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
