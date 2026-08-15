@@ -85,7 +85,8 @@ def main():
             print("  Cancelando la orden de prueba…")
             time.sleep(8)
             try:
-                cliente.cancel_order(oid)
+                from py_clob_client_v2.clob_types import OrderPayload
+                cliente.cancel_order(OrderPayload(orderID=oid))
                 print("  ✔ Orden cancelada (sin riesgo).")
             except Exception as e:
                 print(f"  (aviso al cancelar — no es grave): {e}")
