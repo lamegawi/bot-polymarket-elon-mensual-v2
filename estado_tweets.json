@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-16T00:45:48.297141",
+ "actualizado": "2026-08-16T01:01:24.611878",
  "tweets": {
   "2085377974396752305": {
    "id": "2085377974396752305",
@@ -290,24 +290,27 @@
   },
   "2088100521261359218": {
    "id": "2088100521261359218",
-   "kind": "post",
+   "kind": "repost",
    "autor": "elonmusk",
-   "created_at": "Fri Aug 14 03:08:00 +0000 2026",
-   "primera_vista": "Sat Aug 15 05:07:05 +0000 2026"
+   "created_at": "Fri Aug 14 00:00:00 +0000 2026",
+   "primera_vista": "Sat Aug 15 05:07:05 +0000 2026",
+   "exacto": true
   },
   "2088484972965298489": {
    "id": "2088484972965298489",
-   "kind": "post",
+   "kind": "repost",
    "autor": "elonmusk",
-   "created_at": "Sat Aug 15 04:36:00 +0000 2026",
-   "primera_vista": "Sat Aug 15 05:07:05 +0000 2026"
+   "created_at": "Sat Aug 15 05:01:24 +0000 2026",
+   "primera_vista": "Sat Aug 15 05:07:05 +0000 2026",
+   "exacto": true
   },
   "2088463985938944130": {
    "id": "2088463985938944130",
-   "kind": "post",
+   "kind": "repost",
    "autor": "elonmusk",
-   "created_at": "Sat Aug 15 03:13:00 +0000 2026",
-   "primera_vista": "Sat Aug 15 05:07:05 +0000 2026"
+   "created_at": "Sat Aug 15 04:01:24 +0000 2026",
+   "primera_vista": "Sat Aug 15 05:07:05 +0000 2026",
+   "exacto": true
   },
   "2088445767673369044": {
    "id": "2088445767673369044",
@@ -479,10 +482,11 @@
   },
   "2088736114739917130": {
    "id": "2088736114739917130",
-   "kind": "post",
+   "kind": "repost",
    "autor": "elonmusk",
-   "created_at": "Sat Aug 15 21:14:00 +0000 2026",
-   "primera_vista": "Sat Aug 15 21:41:50 +0000 2026"
+   "created_at": "Sat Aug 15 22:01:24 +0000 2026",
+   "primera_vista": "Sat Aug 15 21:41:50 +0000 2026",
+   "exacto": true
   },
   "2088666462819082645": {
    "id": "2088666462819082645",
@@ -507,10 +511,11 @@
   },
   "2088747465482912152": {
    "id": "2088747465482912152",
-   "kind": "post",
+   "kind": "repost",
    "autor": "elonmusk",
-   "created_at": "Sat Aug 15 21:59:00 +0000 2026",
-   "primera_vista": "Sat Aug 15 22:01:05 +0000 2026"
+   "created_at": "Sat Aug 15 22:01:24 +0000 2026",
+   "primera_vista": "Sat Aug 15 22:01:05 +0000 2026",
+   "exacto": true
   }
  }
 }
