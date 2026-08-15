@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-08-15T05:07:10.133835+00:00",
+ "actualizado": "2026-08-15T05:21:46.387710+00:00",
  "mercados": [
   {
    "id": "828515",
    "titulo": "Elon Musk # tweets August 13 - August 15, 2026?",
    "slug": "elon-musk-of-tweets-august-13-august-15",
    "cerrado": false,
-   "volumen": 480580.887065,
+   "volumen": 487282.56089799997,
    "endDate": "2026-08-15T16:00:00Z",
    "inicio_iso": "2026-08-13T12:00:00-04:00",
    "fin_iso": "2026-08-15T12:00:00-04:00",
@@ -27,31 +27,31 @@
      "titulo": "40-64",
      "lo": 40,
      "hi": 64,
-     "precio_yes": 0.395,
-     "precio_no": 0.605,
-     "cuota_yes": 2.531645569620253,
-     "cuota_no": 1.6528925619834711,
-     "volumen": 109801.325597
+     "precio_yes": 0.465,
+     "precio_no": 0.535,
+     "cuota_yes": 2.150537634408602,
+     "cuota_no": 1.869158878504673,
+     "volumen": 112683.29778400001
     },
     {
      "titulo": "65-89",
      "lo": 65,
      "hi": 89,
-     "precio_yes": 0.59,
-     "precio_no": 0.41,
-     "cuota_yes": 1.6949152542372883,
-     "cuota_no": 2.4390243902439024,
-     "volumen": 70377.77571700004
+     "precio_yes": 0.535,
+     "precio_no": 0.465,
+     "cuota_yes": 1.8691588785046729,
+     "cuota_no": 2.1505376344086025,
+     "volumen": 72261.439187
     },
     {
      "titulo": "90-114",
      "lo": 90,
      "hi": 114,
-     "precio_yes": 0.013,
-     "precio_no": 0.987,
-     "cuota_yes": 76.92307692307692,
-     "cuota_no": 1.0131712259371835,
-     "volumen": 101745.59705100002
+     "precio_yes": 0.01,
+     "precio_no": 0.99,
+     "cuota_yes": 100.0,
+     "cuota_no": 1.0101010101010102,
+     "volumen": 103234.35522699998
     },
     {
      "titulo": "115-139",
@@ -61,7 +61,7 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 64149.018465
+     "volumen": 64596.29846500001
     },
     {
      "titulo": "140-164",
@@ -71,7 +71,7 @@
      "precio_no": 0.9995,
      "cuota_yes": 2000.0,
      "cuota_no": 1.0005002501250624,
-     "volumen": 29962.994
+     "volumen": 29962.994000000002
     },
     {
      "titulo": "165-189",
@@ -81,7 +81,7 @@
      "precio_no": 0.9995,
      "cuota_yes": 2000.0,
      "cuota_no": 1.0005002501250624,
-     "volumen": 22071.531475999996
+     "volumen": 22071.531476
     },
     {
      "titulo": "190-214",
@@ -120,7 +120,7 @@
    "titulo": "Elon Musk # tweets August 15 - August 17, 2026?",
    "slug": "elon-musk-of-tweets-august-15-august-17",
    "cerrado": false,
-   "volumen": 56078.910640999995,
+   "volumen": 56103.910641,
    "endDate": "2026-08-17T16:00:00Z",
    "inicio_iso": "2026-08-15T12:00:00-04:00",
    "fin_iso": "2026-08-17T12:00:00-04:00",
@@ -131,11 +131,11 @@
      "titulo": "<40",
      "lo": 0,
      "hi": 39,
-     "precio_yes": 0.31,
-     "precio_no": 0.69,
-     "cuota_yes": 3.2258064516129035,
-     "cuota_no": 1.4492753623188408,
-     "volumen": 5797.9879470000005
+     "precio_yes": 0.32,
+     "precio_no": 0.68,
+     "cuota_yes": 3.125,
+     "cuota_no": 1.4705882352941178,
+     "volumen": 5797.987947
     },
     {
      "titulo": "40-64",
@@ -145,26 +145,26 @@
      "precio_no": 0.495,
      "cuota_yes": 1.9801980198019802,
      "cuota_no": 2.0202020202020203,
-     "volumen": 6200.851237999999
+     "volumen": 6200.851238
     },
     {
      "titulo": "65-89",
      "lo": 65,
      "hi": 89,
-     "precio_yes": 0.15,
-     "precio_no": 0.85,
-     "cuota_yes": 6.666666666666667,
-     "cuota_no": 1.1764705882352942,
-     "volumen": 6990.810428999997
+     "precio_yes": 0.14,
+     "precio_no": 0.86,
+     "cuota_yes": 7.142857142857142,
+     "cuota_no": 1.1627906976744187,
+     "volumen": 6995.810428999998
     },
     {
      "titulo": "90-114",
      "lo": 90,
      "hi": 114,
-     "precio_yes": 0.032,
-     "precio_no": 0.968,
-     "cuota_yes": 31.25,
-     "cuota_no": 1.0330578512396695,
+     "precio_yes": 0.0305,
+     "precio_no": 0.9695,
+     "cuota_yes": 32.78688524590164,
+     "cuota_no": 1.0314595152140278,
      "volumen": 8844.370984
     },
     {
@@ -185,7 +185,7 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 3921.994
+     "volumen": 3921.9939999999997
     },
     {
      "titulo": "165-189",
@@ -234,7 +234,7 @@
    "titulo": "Elon Musk # tweets August 11 - August 18, 2026?",
    "slug": "elon-musk-of-tweets-august-11-august-18",
    "cerrado": false,
-   "volumen": 929369.8417520002,
+   "volumen": 933072.7872390001,
    "endDate": "2026-08-18T16:00:00Z",
    "inicio_iso": "2026-08-11T12:00:00-04:00",
    "fin_iso": "2026-08-18T12:00:00-04:00",
@@ -299,7 +299,7 @@
      "precio_no": 0.9995,
      "cuota_yes": 2000.0,
      "cuota_no": 1.0005002501250624,
-     "volumen": 66450.38295700001
+     "volumen": 66450.382957
     },
     {
      "titulo": "120-139",
@@ -309,17 +309,17 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 104513.92117199997
+     "volumen": 104563.921172
     },
     {
      "titulo": "140-159",
      "lo": 140,
      "hi": 159,
-     "precio_yes": 0.038,
-     "precio_no": 0.962,
-     "cuota_yes": 26.315789473684212,
-     "cuota_no": 1.0395010395010396,
-     "volumen": 73819.453078
+     "precio_yes": 0.037,
+     "precio_no": 0.963,
+     "cuota_yes": 27.027027027027028,
+     "cuota_no": 1.0384215991692627,
+     "volumen": 74007.45307800002
     },
     {
      "titulo": "160-179",
@@ -329,7 +329,7 @@
      "precio_no": 0.825,
      "cuota_yes": 5.714285714285714,
      "cuota_no": 1.2121212121212122,
-     "volumen": 71531.16357600004
+     "volumen": 71543.21176400004
     },
     {
      "titulo": "180-199",
@@ -339,7 +339,7 @@
      "precio_no": 0.675,
      "cuota_yes": 3.0769230769230766,
      "cuota_no": 1.4814814814814814,
-     "volumen": 52470.462006000096
+     "volumen": 52536.80780300009
     },
     {
      "titulo": "200-219",
@@ -349,7 +349,7 @@
      "precio_no": 0.735,
      "cuota_yes": 3.773584905660377,
      "cuota_no": 1.3605442176870748,
-     "volumen": 31005.38289
+     "volumen": 31134.411892000004
     },
     {
      "titulo": "220-239",
@@ -359,17 +359,17 @@
      "precio_no": 0.855,
      "cuota_yes": 6.8965517241379315,
      "cuota_no": 1.1695906432748537,
-     "volumen": 22234.363127999997
+     "volumen": 22234.363127999994
     },
     {
      "titulo": "240-259",
      "lo": 240,
      "hi": 259,
-     "precio_yes": 0.057,
-     "precio_no": 0.943,
-     "cuota_yes": 17.543859649122805,
-     "cuota_no": 1.0604453870625663,
-     "volumen": 33669.293969
+     "precio_yes": 0.0545,
+     "precio_no": 0.9455,
+     "cuota_yes": 18.34862385321101,
+     "cuota_no": 1.0576414595452142,
+     "volumen": 36720.22396899999
     },
     {
      "titulo": "260-279",
@@ -379,7 +379,7 @@
      "precio_no": 0.9855,
      "cuota_yes": 68.9655172413793,
      "cuota_no": 1.0147133434804667,
-     "volumen": 49020.257782
+     "volumen": 49226.85028199999
     },
     {
      "titulo": "280-299",
@@ -389,7 +389,7 @@
      "precio_no": 0.9945,
      "cuota_yes": 181.81818181818184,
      "cuota_no": 1.0055304172951232,
-     "volumen": 48872.905657
+     "volumen": 48872.905656999996
     },
     {
      "titulo": "300-319",
@@ -429,7 +429,7 @@
      "precio_no": 0.9995,
      "cuota_yes": 2000.0,
      "cuota_no": 1.0005002501250624,
-     "volumen": 29969.320933
+     "volumen": 29969.320932999995
     },
     {
      "titulo": "380-399",
@@ -508,7 +508,7 @@
    "titulo": "Elon Musk # tweets August 14 - August 21, 2026?",
    "slug": "elon-musk-of-tweets-august-14-august-21",
    "cerrado": false,
-   "volumen": 426095.623791,
+   "volumen": 427786.635842,
    "endDate": "2026-08-21T16:00:00Z",
    "inicio_iso": "2026-08-14T12:00:00-04:00",
    "fin_iso": "2026-08-21T12:00:00-04:00",
@@ -563,36 +563,36 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 40339.795566
+     "volumen": 40539.795566
     },
     {
      "titulo": "100-119",
      "lo": 100,
      "hi": 119,
-     "precio_yes": 0.0205,
-     "precio_no": 0.9795,
-     "cuota_yes": 48.78048780487805,
-     "cuota_no": 1.0209290454313424,
-     "volumen": 41827.260045
+     "precio_yes": 0.0225,
+     "precio_no": 0.9775,
+     "cuota_yes": 44.44444444444444,
+     "cuota_no": 1.0230179028132993,
+     "volumen": 42620.520045000005
     },
     {
      "titulo": "120-139",
      "lo": 120,
      "hi": 139,
-     "precio_yes": 0.0505,
-     "precio_no": 0.9495,
-     "cuota_yes": 19.801980198019802,
-     "cuota_no": 1.05318588730911,
-     "volumen": 32879.97981
+     "precio_yes": 0.0545,
+     "precio_no": 0.9455,
+     "cuota_yes": 18.34862385321101,
+     "cuota_no": 1.0576414595452142,
+     "volumen": 33153.77981
     },
     {
      "titulo": "140-159",
      "lo": 140,
      "hi": 159,
-     "precio_yes": 0.145,
-     "precio_no": 0.855,
-     "cuota_yes": 6.8965517241379315,
-     "cuota_no": 1.1695906432748537,
+     "precio_yes": 0.155,
+     "precio_no": 0.845,
+     "cuota_yes": 6.451612903225807,
+     "cuota_no": 1.183431952662722,
      "volumen": 5095.3776880000005
     },
     {
@@ -613,7 +613,7 @@
      "precio_no": 0.775,
      "cuota_yes": 4.444444444444445,
      "cuota_no": 1.2903225806451613,
-     "volumen": 11714.641902999994
+     "volumen": 11738.593953999996
     },
     {
      "titulo": "200-219",
@@ -623,7 +623,7 @@
      "precio_no": 0.835,
      "cuota_yes": 6.0606060606060606,
      "cuota_no": 1.1976047904191618,
-     "volumen": 4292.626276
+     "volumen": 4692.626276
     },
     {
      "titulo": "220-239",
@@ -663,7 +663,7 @@
      "precio_no": 0.9875,
      "cuota_yes": 80.0,
      "cuota_no": 1.0126582278481011,
-     "volumen": 12228.444679
+     "volumen": 12228.444678999998
     },
     {
      "titulo": "300-319",
@@ -703,7 +703,7 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 34716.730282
+     "volumen": 34716.730282000004
     },
     {
      "titulo": "380-399",
@@ -713,7 +713,7 @@
      "precio_no": 0.999,
      "cuota_yes": 1000.0,
      "cuota_no": 1.001001001001001,
-     "volumen": 43006.438
+     "volumen": 43006.437999999995
     },
     {
      "titulo": "400-419",
@@ -773,7 +773,7 @@
      "precio_no": 0.9995,
      "cuota_yes": 2000.0,
      "cuota_no": 1.0005002501250624,
-     "volumen": 48716.654999999984
+     "volumen": 48716.655
     }
    ]
   },
@@ -782,7 +782,7 @@
    "titulo": "Elon Musk # tweets August 18 - August 25, 2026?",
    "slug": "elon-musk-of-tweets-august-18-august-25",
    "cerrado": false,
-   "volumen": 2564.324553,
+   "volumen": 5034.324553,
    "endDate": "2026-08-25T16:00:00Z",
    "inicio_iso": "2026-08-18T12:00:00-04:00",
    "fin_iso": "2026-08-25T12:00:00-04:00",
@@ -797,7 +797,7 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 600.0
+     "volumen": 615.0
     },
     {
      "titulo": "20-39",
@@ -807,37 +807,37 @@
      "precio_no": 0.9985,
      "cuota_yes": 666.6666666666666,
      "cuota_no": 1.0015022533800702,
-     "volumen": 600.0
+     "volumen": 615.0
     },
     {
      "titulo": "40-59",
      "lo": 40,
      "hi": 59,
-     "precio_yes": 0.0055,
-     "precio_no": 0.9945,
-     "cuota_yes": 181.81818181818184,
-     "cuota_no": 1.0055304172951232,
-     "volumen": 500.0
+     "precio_yes": 0.005,
+     "precio_no": 0.995,
+     "cuota_yes": 200.0,
+     "cuota_no": 1.0050251256281406,
+     "volumen": 515.0
     },
     {
      "titulo": "60-79",
      "lo": 60,
      "hi": 79,
-     "precio_yes": 0.0055,
-     "precio_no": 0.9945,
-     "cuota_yes": 181.81818181818184,
-     "cuota_no": 1.0055304172951232,
-     "volumen": 500.0
+     "precio_yes": 0.004,
+     "precio_no": 0.996,
+     "cuota_yes": 250.0,
+     "cuota_no": 1.0040160642570282,
+     "volumen": 515.0
     },
     {
      "titulo": "80-99",
      "lo": 80,
      "hi": 99,
-     "precio_yes": 0.0055,
-     "precio_no": 0.9945,
-     "cuota_yes": 181.81818181818184,
-     "cuota_no": 1.0055304172951232,
-     "volumen": 5.0
+     "precio_yes": 0.005,
+     "precio_no": 0.995,
+     "cuota_yes": 200.0,
+     "cuota_no": 1.0050251256281406,
+     "volumen": 100.0
     },
     {
      "titulo": "100-119",
@@ -853,10 +853,10 @@
      "titulo": "120-139",
      "lo": 120,
      "hi": 139,
-     "precio_yes": 0.025,
-     "precio_no": 0.975,
-     "cuota_yes": 40.0,
-     "cuota_no": 1.0256410256410258,
+     "precio_yes": 0.0225,
+     "precio_no": 0.9775,
+     "cuota_yes": 44.44444444444444,
+     "cuota_no": 1.0230179028132993,
      "volumen": 0.0
     },
     {
@@ -873,26 +873,6 @@
      "titulo": "160-179",
      "lo": 160,
      "hi": 179,
-     "precio_yes": 0.185,
-     "precio_no": 0.815,
-     "cuota_yes": 5.405405405405405,
-     "cuota_no": 1.2269938650306749,
-     "volumen": 0.0
-    },
-    {
-     "titulo": "180-199",
-     "lo": 180,
-     "hi": 199,
-     "precio_yes": 0.19,
-     "precio_no": 0.81,
-     "cuota_yes": 5.2631578947368425,
-     "cuota_no": 1.2345679012345678,
-     "volumen": 4.545453
-    },
-    {
-     "titulo": "200-219",
-     "lo": 200,
-     "hi": 219,
      "precio_yes": 0.175,
      "precio_no": 0.825,
      "cuota_yes": 5.714285714285714,
@@ -900,29 +880,39 @@
      "volumen": 0.0
     },
     {
+     "titulo": "180-199",
+     "lo": 180,
+     "hi": 199,
+     "precio_yes": 0.185,
+     "precio_no": 0.815,
+     "cuota_yes": 5.405405405405405,
+     "cuota_no": 1.2269938650306749,
+     "volumen": 4.545453
+    },
+    {
+     "titulo": "200-219",
+     "lo": 200,
+     "hi": 219,
+     "precio_yes": 0.18,
+     "precio_no": 0.82,
+     "cuota_yes": 5.555555555555555,
+     "cuota_no": 1.2195121951219512,
+     "volumen": 0.0
+    },
+    {
      "titulo": "220-239",
      "lo": 220,
      "hi": 239,
-     "precio_yes": 0.145,
-     "precio_no": 0.855,
-     "cuota_yes": 6.8965517241379315,
-     "cuota_no": 1.1695906432748537,
+     "precio_yes": 0.14,
+     "precio_no": 0.86,
+     "cuota_yes": 7.142857142857142,
+     "cuota_no": 1.1627906976744187,
      "volumen": 0.0
     },
     {
      "titulo": "240-259",
      "lo": 240,
      "hi": 259,
-     "precio_yes": 0.115,
-     "precio_no": 0.885,
-     "cuota_yes": 8.695652173913043,
-     "cuota_no": 1.1299435028248588,
-     "volumen": 0.0
-    },
-    {
-     "titulo": "260-279",
-     "lo": 260,
-     "hi": 279,
      "precio_yes": 0.12,
      "precio_no": 0.88,
      "cuota_yes": 8.333333333333334,
@@ -930,64 +920,74 @@
      "volumen": 0.0
     },
     {
+     "titulo": "260-279",
+     "lo": 260,
+     "hi": 279,
+     "precio_yes": 0.115,
+     "precio_no": 0.885,
+     "cuota_yes": 8.695652173913043,
+     "cuota_no": 1.1299435028248588,
+     "volumen": 0.0
+    },
+    {
      "titulo": "280-299",
      "lo": 280,
      "hi": 299,
-     "precio_yes": 0.0245,
-     "precio_no": 0.9755,
-     "cuota_yes": 40.816326530612244,
-     "cuota_no": 1.0251153254741159,
+     "precio_yes": 0.024,
+     "precio_no": 0.976,
+     "cuota_yes": 41.666666666666664,
+     "cuota_no": 1.0245901639344261,
      "volumen": 51.6161
     },
     {
      "titulo": "300-319",
      "lo": 300,
      "hi": 319,
-     "precio_yes": 0.019,
-     "precio_no": 0.981,
-     "cuota_yes": 52.631578947368425,
-     "cuota_no": 1.019367991845056,
+     "precio_yes": 0.0175,
+     "precio_no": 0.9825,
+     "cuota_yes": 57.14285714285714,
+     "cuota_no": 1.0178117048346056,
      "volumen": 0.0
     },
     {
      "titulo": "320-339",
      "lo": 320,
      "hi": 339,
-     "precio_yes": 0.02,
-     "precio_no": 0.98,
-     "cuota_yes": 50.0,
-     "cuota_no": 1.0204081632653061,
+     "precio_yes": 0.0195,
+     "precio_no": 0.9805,
+     "cuota_yes": 51.282051282051285,
+     "cuota_no": 1.0198878123406425,
      "volumen": 0.0
     },
     {
      "titulo": "340-359",
      "lo": 340,
      "hi": 359,
-     "precio_yes": 0.014,
-     "precio_no": 0.986,
-     "cuota_yes": 71.42857142857143,
-     "cuota_no": 1.0141987829614605,
-     "volumen": 0.0
+     "precio_yes": 0.009,
+     "precio_no": 0.991,
+     "cuota_yes": 111.11111111111111,
+     "cuota_no": 1.0090817356205852,
+     "volumen": 5.0
     },
     {
      "titulo": "360-379",
      "lo": 360,
      "hi": 379,
-     "precio_yes": 0.01,
-     "precio_no": 0.99,
-     "cuota_yes": 100.0,
-     "cuota_no": 1.0101010101010102,
-     "volumen": 5.0
+     "precio_yes": 0.0055,
+     "precio_no": 0.9945,
+     "cuota_yes": 181.81818181818184,
+     "cuota_no": 1.0055304172951232,
+     "volumen": 100.0
     },
     {
      "titulo": "380-399",
      "lo": 380,
      "hi": 399,
-     "precio_yes": 0.01,
-     "precio_no": 0.99,
-     "cuota_yes": 100.0,
-     "cuota_no": 1.0101010101010102,
-     "volumen": 5.0
+     "precio_yes": 0.0055,
+     "precio_no": 0.9945,
+     "cuota_yes": 181.81818181818184,
+     "cuota_no": 1.0055304172951232,
+     "volumen": 100.0
     },
     {
      "titulo": "400-419",
@@ -997,7 +997,7 @@
      "precio_no": 0.9945,
      "cuota_yes": 181.81818181818184,
      "cuota_no": 1.0055304172951232,
-     "volumen": 5.0
+     "volumen": 100.0
     },
     {
      "titulo": "420-439",
@@ -1007,7 +1007,7 @@
      "precio_no": 0.9945,
      "cuota_yes": 181.81818181818184,
      "cuota_no": 1.0055304172951232,
-     "volumen": 5.0
+     "volumen": 500.0
     },
     {
      "titulo": "440-459",
@@ -1017,37 +1017,37 @@
      "precio_no": 0.9945,
      "cuota_yes": 181.81818181818184,
      "cuota_no": 1.0055304172951232,
-     "volumen": 5.0
+     "volumen": 500.0
     },
     {
      "titulo": "460-479",
      "lo": 460,
      "hi": 479,
-     "precio_yes": 0.0055,
-     "precio_no": 0.9945,
-     "cuota_yes": 181.81818181818184,
-     "cuota_no": 1.0055304172951232,
-     "volumen": 5.0
+     "precio_yes": 0.005,
+     "precio_no": 0.995,
+     "cuota_yes": 200.0,
+     "cuota_no": 1.0050251256281406,
+     "volumen": 515.0
     },
     {
      "titulo": "480-499",
      "lo": 480,
      "hi": 499,
-     "precio_yes": 0.0055,
-     "precio_no": 0.9945,
-     "cuota_yes": 181.81818181818184,
-     "cuota_no": 1.0055304172951232,
-     "volumen": 505.0
+     "precio_yes": 0.005,
+     "precio_no": 0.995,
+     "cuota_yes": 200.0,
+     "cuota_no": 1.0050251256281406,
+     "volumen": 515.0
     },
     {
      "titulo": "500+",
      "lo": 500,
      "hi": Infinity,
-     "precio_yes": 0.0055,
-     "precio_no": 0.9945,
-     "cuota_yes": 181.81818181818184,
-     "cuota_no": 1.0055304172951232,
-     "volumen": 168.163
+     "precio_yes": 0.005,
+     "precio_no": 0.995,
+     "cuota_yes": 200.0,
+     "cuota_no": 1.0050251256281406,
+     "volumen": 183.163
     }
    ]
   },
@@ -1331,7 +1331,7 @@
      "precio_no": 0.9965,
      "cuota_yes": 285.7142857142857,
      "cuota_no": 1.0035122930255895,
-     "volumen": 5303.686000000001
+     "volumen": 5303.6860000000015
     },
     {
      "titulo": "540-559",
@@ -1341,17 +1341,17 @@
      "precio_no": 0.9955,
      "cuota_yes": 222.22222222222223,
      "cuota_no": 1.0045203415369162,
-     "volumen": 5587.551332999999
+     "volumen": 5587.551333
     },
     {
      "titulo": "560-579",
      "lo": 560,
      "hi": 579,
-     "precio_yes": 0.005,
-     "precio_no": 0.995,
-     "cuota_yes": 200.0,
-     "cuota_no": 1.0050251256281406,
-     "volumen": 5358.017142
+     "precio_yes": 0.0045,
+     "precio_no": 0.9955,
+     "cuota_yes": 222.22222222222223,
+     "cuota_no": 1.0045203415369162,
+     "volumen": 5358.017141999999
     },
     {
      "titulo": "580-599",
@@ -1411,16 +1411,16 @@
      "precio_no": 0.947,
      "cuota_yes": 18.867924528301888,
      "cuota_no": 1.0559662090813096,
-     "volumen": 2141.4531670000006
+     "volumen": 2141.453167
     },
     {
      "titulo": "700-719",
      "lo": 700,
      "hi": 719,
-     "precio_yes": 0.058,
-     "precio_no": 0.942,
-     "cuota_yes": 17.241379310344826,
-     "cuota_no": 1.0615711252653928,
+     "precio_yes": 0.059,
+     "precio_no": 0.941,
+     "cuota_yes": 16.949152542372882,
+     "cuota_no": 1.0626992561105206,
      "volumen": 1701.7980510000002
     },
     {
@@ -1437,20 +1437,20 @@
      "titulo": "740-759",
      "lo": 740,
      "hi": 759,
-     "precio_yes": 0.071,
-     "precio_no": 0.929,
-     "cuota_yes": 14.084507042253522,
-     "cuota_no": 1.0764262648008611,
+     "precio_yes": 0.072,
+     "precio_no": 0.928,
+     "cuota_yes": 13.88888888888889,
+     "cuota_no": 1.0775862068965516,
      "volumen": 2322.9142949999996
     },
     {
      "titulo": "760-779",
      "lo": 760,
      "hi": 779,
-     "precio_yes": 0.072,
-     "precio_no": 0.928,
-     "cuota_yes": 13.88888888888889,
-     "cuota_no": 1.0775862068965516,
+     "precio_yes": 0.074,
+     "precio_no": 0.926,
+     "cuota_yes": 13.513513513513514,
+     "cuota_no": 1.079913606911447,
      "volumen": 1576.900676
     },
     {
@@ -1471,7 +1471,7 @@
      "precio_no": 0.8745,
      "cuota_yes": 7.968127490039841,
      "cuota_no": 1.1435105774728416,
-     "volumen": 3988.3498759999998
+     "volumen": 3988.3498759999993
     },
     {
      "titulo": "840-879",
@@ -1491,26 +1491,26 @@
      "precio_no": 0.905,
      "cuota_yes": 10.526315789473685,
      "cuota_no": 1.1049723756906078,
-     "volumen": 3905.446547
+     "volumen": 3905.4465469999996
     },
     {
      "titulo": "920-959",
      "lo": 920,
      "hi": 959,
-     "precio_yes": 0.053,
-     "precio_no": 0.947,
-     "cuota_yes": 18.867924528301888,
-     "cuota_no": 1.0559662090813096,
+     "precio_yes": 0.054,
+     "precio_no": 0.946,
+     "cuota_yes": 18.51851851851852,
+     "cuota_no": 1.0570824524312896,
      "volumen": 4523.559116999999
     },
     {
      "titulo": "960-999",
      "lo": 960,
      "hi": 999,
-     "precio_yes": 0.0235,
-     "precio_no": 0.9765,
-     "cuota_yes": 42.5531914893617,
-     "cuota_no": 1.0240655401945724,
+     "precio_yes": 0.024,
+     "precio_no": 0.976,
+     "cuota_yes": 41.666666666666664,
+     "cuota_no": 1.0245901639344261,
      "volumen": 9379.141351
     },
     {
@@ -1521,7 +1521,7 @@
      "precio_no": 0.94,
      "cuota_yes": 16.666666666666668,
      "cuota_no": 1.0638297872340425,
-     "volumen": 6478.124405999999
+     "volumen": 6478.124405999998
     }
    ]
   },
@@ -1644,7 +1644,7 @@
    "titulo": "Elon Musk # tweets August 7 - August 14, 2026?",
    "slug": "elon-musk-of-tweets-august-7-august-14",
    "cerrado": true,
-   "volumen": 3484769.0597469993,
+   "volumen": 3484769.059746999,
    "endDate": "2026-08-14T16:00:00Z",
    "inicio_iso": "2026-08-07T12:00:00-04:00",
    "fin_iso": "2026-08-14T12:00:00-04:00",
@@ -1749,7 +1749,7 @@
      "precio_no": 0.0,
      "cuota_yes": 1.0,
      "cuota_no": null,
-     "volumen": 432488.9296
+     "volumen": 432488.92959999974
     },
     {
      "titulo": "200-219",
@@ -1759,7 +1759,7 @@
      "precio_no": 1.0,
      "cuota_yes": null,
      "cuota_no": 1.0,
-     "volumen": 545501.296834
+     "volumen": 545501.2968339999
     },
     {
      "titulo": "220-239",
@@ -1769,7 +1769,7 @@
      "precio_no": 1.0,
      "cuota_yes": null,
      "cuota_no": 1.0,
-     "volumen": 300289.1420050001
+     "volumen": 300289.14200500003
     },
     {
      "titulo": "240-259",
